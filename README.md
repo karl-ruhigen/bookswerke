@@ -1,3 +1,3 @@
 # bookswerke
 
-[Aндроиды](p/androids_strange_humans)
+[Говорящие роботы, вольнолюбивые андроиды и разумные компьютеры - как пример “странных людей”](p/androids_strange_humans)
